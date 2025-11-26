@@ -1,1 +1,3 @@
-print("Hello world")
+a = input
+if a >= 10:
+     print("Hello world")
